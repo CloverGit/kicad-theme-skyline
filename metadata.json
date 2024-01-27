@@ -2,8 +2,8 @@
   "$schema": "https://go.kicad.org/pcm/schemas/v1",
   "name": "Skyline",
   "description": "A theme that is rich in technology, Inspired by Altium Circuit Studio",
-  "description_full": "Designed by @CloverGit, Inspired by Altium Circuit Studio.\n Read more at https://github.com/clovergit/kicad-skyline-theme",
-  "identifier": "com.github.clovergit.kicad-skyline-theme",
+  "description_full": "Designed by @CloverGit, Inspired by Altium Circuit Studio.\n Read more at https://github.com/clovergit/kicad-theme-skyline",
+  "identifier": "com.github.clovergit.kicad-theme-skyline",
   "type": "colortheme",
   "author": {
     "name": "CloverGit",
@@ -19,13 +19,13 @@
   },
   "license": "MIT",
   "resources": {
-    "Github": "https://github.com/clovergit/kicad-skyline-theme"
+    "Github": "https://github.com/clovergit/kicad-theme-skyline"
   },
   "versions": [
     {
-      "version": "1.0",
+      "version": "1.0.1",
       "status": "stable",
-      "kicad_version": "7.0.0"
+      "kicad_version": "7.0"
     }
   ]
 }
